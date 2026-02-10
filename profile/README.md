@@ -1,16 +1,16 @@
 # About Blindfold
 
-**The Privacy Layer for the AI Era.**
+**The Privacy API for AI Applications.**
 
-Blindfold is an open-source AI Gateway that secures your sensitive data before it reaches LLMs. It automatically detects, anonymizes, and manages PII (Personally Identifiable Information) in real-time, ensuring compliance with GDPR, HIPAA, and EU AI Act.
+Blindfold detects and protects PII (Personally Identifiable Information) before it reaches LLMs. One API call to tokenize, mask, redact, or anonymize sensitive data — helping you stay compliant with GDPR, HIPAA, and PCI DSS.
 
 ## Features
 
-- **Real-time PII Detection**: Automatically identify sensitive data like names, emails, phone numbers, and more.
-- **Flexible Anonymization**: Choose between Tokenization (reversible), Masking, Redaction, Hashing, or Synthesis.
-- **Zero Trust Architecture**: Your sensitive data never leaves your infrastructure in plain text.
-- **Developer Friendly**: Simple REST API and SDKs for Python and JavaScript/TypeScript.
-- **Audit & Compliance**: Comprehensive logging and reporting for compliance audits.
+- **Real-time PII Detection**: Identify 50+ entity types including names, emails, phone numbers, credit cards, and more.
+- **8 Privacy Operations**: Tokenize, detokenize, mask, redact, synthesize, hash, encrypt, and detect.
+- **Policy-based Detection**: Built-in GDPR, HIPAA, PCI DSS policies, plus custom policies per tenant.
+- **Developer Friendly**: REST API, Python SDK, Node.js SDK, CLI, and MCP Server for AI assistants.
+- **Audit & Compliance**: Full request audit trail with PDF/CSV compliance report generation.
 
 ## Repositories
 
