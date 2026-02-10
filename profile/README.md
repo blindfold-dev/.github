@@ -14,5 +14,12 @@ Blindfold is an open-source AI Gateway that secures your sensitive data before i
 
 ## Repositories
 
-- [**Blindfold SDK**](https://github.com/blindfold-dev/Blindfold): The SDK for easy usage of our infra
+- [**Blindfold SDK**](https://github.com/blindfold-dev/Blindfold): Python and Node.js SDKs, MCP Server, and CLI
 - [**Blindfold Cookbook**](https://github.com/blindfold-dev/blindfold-cookbook): Integration examples for OpenAI, LangChain, Express.js, and FastAPI
+
+## Links
+
+- [Website](https://blindfold.dev)
+- [Documentation](https://docs.blindfold.dev)
+- [Dashboard](https://app.blindfold.dev)
+- [Status](https://status.blindfold.dev)
