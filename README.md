@@ -7,6 +7,7 @@ Blindfold detects and protects PII (Personally Identifiable Information) before 
 ## Features
 
 - **Real-time PII Detection**: Identify 50+ entity types including names, emails, phone numbers, credit cards, and more.
+2- **Multi-Region (EU & US)**: Choose where your data is processed for compliance and latency.
 - **8 Privacy Operations**: Tokenize, detokenize, mask, redact, synthesize, hash, encrypt, and detect.
 - **Policy-based Detection**: Built-in GDPR, HIPAA, PCI DSS policies, plus custom policies per tenant.
 - **Developer Friendly**: REST API, Python SDK, Node.js SDK, CLI, and MCP Server for AI assistants.
